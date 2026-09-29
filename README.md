@@ -1,7 +1,6 @@
 # PETROTWIN 🛢️ 
 ### AI-Enabled Well-to-Surface Digital Twin for Integrated CSS and SRP Optimization
 
-![PETROTWIN Dashboard](./src/assets/logo.png) *(Note: Placeholder for actual logo/screenshot)*
 
 **PETROTWIN** is a comprehensive, data-driven Digital Twin prototype designed to solve critical heavy crude extraction challenges at the Baghewala Field, Rajasthan. Developed for **Oil India Limited** as part of the **Smart India Hackathon (SIH)**.
 
